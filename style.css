@@ -1,7 +1,7 @@
 /* Main Style */
 
 body{
-  font-family: 'Open Sans', arial, sans-serif;
+font-family: 'Open Sans', arial, sans-serif;
 font-size: 1em;
 color: #444;
 font-weight:400;
@@ -21,10 +21,10 @@ width:60%;
 min-width: 300px;
 margin: 0 auto;
 }
-.title {
+#title {
 color:#33485e
 text-transform: uppercase;
-text-align: center;
+text-align:center;
 font-size:1.5em;
 font-weight: 600;
 margin-top: 20px;
@@ -74,6 +74,8 @@ margin: 0 auto;
 margin: 0px;
 padding: 0px;
 text-align: center;
+}
+.menu li{
 display: inline;
 list-style-type: none;
 }
