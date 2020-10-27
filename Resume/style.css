@@ -1,5 +1,14 @@
-h1{
+h1 {
+  font-size: 45px;
    margin: auto 0;
-  color: blue
-  
+  color:#000000
+
   }
+  #text-primary{
+    font-size: 30px;
+  }
+h2 {
+  font-size: 30px;
+  font-style: bold;
+  color: #000000;
+}
