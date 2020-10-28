@@ -1,14 +1,42 @@
-h1 {
-  font-size: 45px;
-   margin: auto 0;
-  color:#000000
+.bg-dark{
+  background-color: blue !important;
+}
+.name {
+  color:#ffffff
+
 
   }
-  #text-primary{
+  .text-primary{
     font-size: 30px;
   }
-h2 {
+.title {
   font-size: 30px;
   font-style: bold;
-  color: #000000;
+  color: #ffffff;
+}
+img{
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+  }
+  h5{
+    font-size: bold
+  }
+.blue {
+  background-color: #3BACF2;
+}
+.red {
+  background-color: #0B6696;
+}
+.yellow {
+  background-color: #2478A5
+}
+.jumbotron
+{
+  background-color: #000000;
+  text-align: center;
 }
