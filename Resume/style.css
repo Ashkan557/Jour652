@@ -1,5 +1,5 @@
 .bg-dark{
-  background-color: blue !important;
+  background-color: #3BACF2 !important;
 }
 .name {
   color:#ffffff
@@ -18,13 +18,28 @@ img{
   text-align: center;
 }
 h3 {
-  text-align: center;
+  text-align: left;
+  color: #ffffff;
 }
 h4 {
-  text-align: center;
-  }
+  text-align: left;
+  color: #ffffff;
+}
   h5{
+    color: #ffffff;
     font-size: bold
+  }
+  h6{
+    color: #ffffff;
+  }
+  h7{
+    color: #ffffff;
+  }
+  h8{
+    color: #ffffff;
+  }
+  p{
+    color: #ffffff;
   }
 .blue {
   background-color: #3BACF2;
@@ -33,7 +48,10 @@ h4 {
   background-color: #0B6696;
 }
 .yellow {
-  background-color: #2478A5
+  background-color: #2478A5;
+}
+.black{
+  background-color: #1A9FC7;
 }
 .jumbotron
 {
