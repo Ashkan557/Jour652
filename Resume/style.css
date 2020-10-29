@@ -20,27 +20,59 @@ img{
 h3 {
   text-align: left;
   color: #ffffff;
+  padding-left: 45px;
+  padding-right: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 h4 {
   text-align: left;
   color: #ffffff;
+  padding-left: 45px;
+  padding-right: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+
 }
   h5{
+    text-align: left;
     color: #ffffff;
+    padding-left: 45px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     font-size: bold
+
   }
   h6{
     color: #ffffff;
+    padding-left: 45px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
   h7{
     color: #ffffff;
+    padding-left: 45px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
   h8{
     color: #ffffff;
+    padding-left: 45px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
   p{
     color: #ffffff;
-  }
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    }
 .blue {
   background-color: #3BACF2;
 }
