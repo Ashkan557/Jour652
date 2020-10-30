@@ -5,9 +5,7 @@
   font-family: PT serif, serif;
   color:#ffffff
 }
-h1{
-  padding-right: 45px; !important;
-}
+
   .text-primary{
     font-size: 30px;
   }
@@ -47,11 +45,12 @@ h4 {
     padding-right: 40px;
     padding-top: 40px;
     padding-bottom: 40px;
-    font-size: bold
+    font-style: bold;
 
   }
   h6{
     color: #ffffff;
+    font-family: PT serif, serif;
     padding-left: 45px;
     padding-right: 40px;
     padding-top: 40px;
@@ -59,10 +58,12 @@ h4 {
   }
   h7{
     color: #ffffff;
+    font-family: PT serif, serif;
     padding-left: 45px;
     padding-right: 40px;
     padding-top: 40px;
     padding-bottom: 40px;
+    font-style: italic;
   }
   h8{
     color: #ffffff;
@@ -97,7 +98,7 @@ h4 {
 .black {
   background-color: #1A9FC7 ! important;
   padding-right: 115px; ! important;
-  padding-left: 20px;
+  
 
 }
 .jumbotron
@@ -105,4 +106,5 @@ h4 {
   background-color: #000000;
   text-align: center;
 }
-.jumbotron {margin-bottom:0 !important;}
+.jumbotron {margin-bottom:0 !important;
+padding-right: 0 !important}
