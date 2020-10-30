@@ -2,10 +2,11 @@
   background-color: #3BACF2 !important;
 }
 .name {
-font-family: PT serif, serif;
+  font-family: PT serif, serif;
   color:#ffffff
-
-
+}
+h1{
+  padding-right: 45px; !important;
 }
   .text-primary{
     font-size: 30px;
@@ -40,6 +41,7 @@ h4 {
 }
   h5{
     text-align: left;
+    font-family: PT serif, serif;
     color: #ffffff;
     padding-left: 45px;
     padding-right: 40px;
@@ -71,6 +73,7 @@ h4 {
   }
   p{
     color: #ffffff;
+    font-family: PT serif, serif;
     padding-left: 45px;
     padding-right: 45px;
     padding-top: 40px;
@@ -78,18 +81,28 @@ h4 {
     }
 .blue {
   background-color: #3BACF2;
+  padding-right: 0 !important
+
 }
 .red {
   background-color: #0B6696;
+  padding-right:0 !important
+
 }
 .yellow {
   background-color: #2478A5;
+
+
 }
-.black{
-  background-color: #1A9FC7;
+.black {
+  background-color: #1A9FC7 ! important;
+  padding-right: 115px; ! important;
+  padding-left: 20px;
+
 }
 .jumbotron
-{
+{margin-bottom:0 !important;
   background-color: #000000;
   text-align: center;
 }
+.jumbotron {margin-bottom:0 !important;}
