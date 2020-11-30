@@ -1,8 +1,6 @@
 .hero-container{
   position: relative;
   text-align: center;
-
-
 }
 .hero-image{
   width:100%;
@@ -46,10 +44,47 @@ text-align: left;
   font-size: 25px;
   color : #AB52D9;
 }
+
 p{
   font-family: 'Montserrat', sans-serif;
   line-height: 180%;
   font-size: 18px;
+}
+
+b{
+  color: #AB52D9
+}
+.sidebar-text-box{
+width: 100%;
+margin: 0 auto;
+border: solid #AB52D9 10px;
+margin-top: 25px;
+margin-bottom: 25px;
+}
+
+.sidebar-title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    text-align: center;
+    color: white;
+    background-color: #AB52D9
+
+}
+.sidebar-text-box-intro-text{
+  padding-left: 1em;
+  padding-right: 1em;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  text-align: left;
+}
+.sidebar-text-box-source-text{
+  font-style: italic;
+  padding-left: 1em;
+  padding-right: 1em;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+
+
 }
 .chapter{
   font-size: 2em;
