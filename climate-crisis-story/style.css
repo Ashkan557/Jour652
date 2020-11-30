@@ -136,13 +136,14 @@ em{
   font-style: bold
 }
 footer {
-  text-align: center;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
 color: #fff;
 padding-top: 10px;
 padding-bottom: 10px;
 padding-right: 10px;
 padding-left: 10px;
   }
-footer {
+footer  {
   background-color: #120202
 }
