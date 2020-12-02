@@ -160,7 +160,7 @@ padding-left: 10px;
 footer  {
   background-color: #120202
 }
-@media(max-width:1000px) {
+@media screen and (max-width:1000px) {
   .hero-hed {
     font-size:2em;
   }
