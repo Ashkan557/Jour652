@@ -148,11 +148,13 @@ padding-left: 10px;
 footer  {
   background-color: #120202
 }
-@media (max-width:1000px;){
-.hero-hed{
-font-size: 2em;
+@media(max-width:1000px) {
+  .hero-hed {
+    font-size:2em;
+  }
+  .quote {
+    font-size:1em;
+    width: 80%;
 }
-.quote{
-width: 80%;
-font-size: 1em;
+
 }
